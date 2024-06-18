@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/harshevo/Documents/TodoApp/todoapp/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/my_opengl_project.dir/src/main.cpp.o -c /home/harshevo/Documents/TodoApp/todoapp/src/main.cpp",
+  "file": "/home/harshevo/Documents/TodoApp/todoapp/src/main.cpp",
+  "output": "CMakeFiles/my_opengl_project.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/harshevo/Documents/TodoApp/todoapp/build/CMakeFiles/my_opengl_project.dir
+/home/harshevo/Documents/TodoApp/todoapp/build/CMakeFiles/edit_cache.dir
+/home/harshevo/Documents/TodoApp/todoapp/build/CMakeFiles/rebuild_cache.dir
